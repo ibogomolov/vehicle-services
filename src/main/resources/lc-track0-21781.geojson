@@ -1,0 +1,229 @@
+{
+	"type": "FeatureCollection",
+
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::21781"
+		}
+	},
+
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533212.0450498, 152334.7315901],
+				[533126.7707499, 152334.6571357]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533126.7707499, 152334.6571357],
+				[533122.9320183, 152327.7678488]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533122.9320183, 152327.7678488],
+				[533122.1923071, 152261.2966206]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533122.1923071, 152261.2966206],
+				[533119.4280285, 152228.0305584]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533119.4280285, 152228.0305584],
+				[533120.8968054, 152216.5932464],
+				[533121.5734395, 152200.5622347],
+				[533128.0158934, 152195.5471215],
+				[533173.5823372, 152194.9266251]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533173.5823372, 152194.9266251],
+				[533322.1246738, 152194.7398631],
+				[533332.313948, 152198.6042872],
+				[533335.5608647, 152208.6823823],
+				[533334.5124273, 152227.2175689]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533334.5124273, 152227.2175689],
+				[533334.7990998, 152242.7832238]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533334.7990998, 152242.7832238],
+				[533333.650984, 152248.4780065],
+				[533331.2531516, 152253.2775214]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533331.2531516, 152253.2775214],
+				[533311.9838909, 152265.8781502],
+				[533303.8553787, 152294.88981],
+				[533303.1753942, 152331.2052343],
+				[533302.6845171, 152333.1993703],
+				[533301.1062453, 152333.51519],
+				[533212.0450498, 152334.7315901]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533334.7990998, 152242.7832238],
+				[533337.3208242, 152245.2979676],
+				[533340.4595636, 152246.9109452]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 0,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533340.4595636, 152246.9109452],
+				[533337.612592, 152248.4766765],
+				[533331.2531516, 152253.2775214]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 1,
+			"speedMax": 2.500000
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533340.4595636, 152246.9109452],
+				[533356.9243611, 152247.6450925],
+				[533357.2001284, 152247.8616913],
+				[533357.285786, 152248.2224484],
+				[533356.8112607, 152270.6225471]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 1,
+			"speedMax": 2.500000,
+			"target": "chargingStation"
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533356.8112607, 152270.6225471],
+				[533358.4031782, 152272.1781039],
+				[533362.878893, 152272.437434]
+			]
+		}
+	}, {
+		"type": "Feature",
+		"properties": {
+			"id": null,
+			"bidir": 1,
+			"speedMax": 2.500000,
+			"target": "chargingStation"
+		},
+		"geometry": {
+			"type": "LineString",
+			"coordinates": [
+				[533356.8112607, 152270.6225471],
+				[533355.3738385, 152272.236556],
+				[533351.2017459, 152272.5314125]
+			]
+		}
+	}]
+}
